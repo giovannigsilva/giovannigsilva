@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/giovannigsilva/giovannigsilva/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/giovannigsilva/giovannigsilva/output/snake.svg" alt="Snake animation" />
 
 ###
 
