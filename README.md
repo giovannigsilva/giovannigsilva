@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Giovanni G A Silva<br>and I'm a Software Developer, from Bauru-SP</h2>
+<h2 align="left">Hi 👋! My name is Giovanni G A Silva<br>I'm a Software Developer, from Bauru-SP</h2>
 
 ###
 
