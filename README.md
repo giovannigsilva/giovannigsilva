@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I am an Software Developer with experience in C++ and ERP Systems. I am proficient in process optimization and corporate solution integration. I have experience developing functionalities for critical systems using C++ and also with web development. <br>Always learning new things, and now trying to document it all here on GitHub before I forget! 😅</p>
+<p align="left">I am an Software Developer with experience in C++ with ERP Systems. I have experience developing functionalities for critical systems using C++ and also with web development. <br>Always learning new things, and now trying to document it all here on GitHub before I forget! 😅</p>
 
 ###
 
